@@ -22,17 +22,17 @@ This is very simple. Go to your terminal and run:
 git clone https://github.com/lv8pv/alarm.git
 ```
 
-> [!NOTE]
-> It's a good idea to look at any script you download from the internet, before
-> running the script. Someone with bad intention could do nasty stuff. If the
-> script is to complicated to understand, consider if it's worth running or have
-> someone help consider the scripts safety
-
 This creates a folder named `alarm` where you ran the git clone command. And
 that's it. `cd` into the alarm folder and run `./alarm.sh` This will run an
 alarm at the default settings (alarm in 10 seconds lasting 4 seconds) You can
 change the defaults by editing the alarm.sh file and change the config between
 the **START CONFIG** and **END CONFIG** section
+
+> [!NOTE]
+> It's a good idea to look at any script you download from the internet, before
+> running the script. Someone with bad intention could do nasty stuff. If the
+> script is to complicated to understand, consider if it's worth running or have
+> someone help consider the scripts safety
 
 ## Configuring
 There is nothing you **MUST** configure, but you might want to change the
