@@ -107,10 +107,10 @@ playtime=${2-$DEFAULT_P}
 
 # Check to see if we should run the script in the background with `disown`
 if [ $BACKGROUND == 1 ]; then
-  echo Playing $mp3file in $sleeptime BACKGROUND=$BACKGROUND
+  echo Playing $mp3file in $sleeptime for $playtime sec BACKGROUND = $BACKGROUND
   sleep $sleeptime && mplayer -endpos $playtime $mp3file &>/dev/null & disown
 else
-  echo Playing $mp3file in $sleeptime BACKGROUND=$BACKGROUND
+  echo Playing $mp3file in $sleeptime for $playtime sec BACKGROUND = $BACKGROUND
   echo "You can run the script in background by editing the script and changing:"
   echo "BACKGROUND=1"
   echo ""
