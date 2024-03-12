@@ -1,4 +1,5 @@
 # alarm.sh
+https://img.shields.io/github/downloads/{lv8pv}/{alarm}/total.svg
 *A simple Linux terminal alarm clock written in bash.*
 
 ## Introduction
