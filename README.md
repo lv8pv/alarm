@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/github/downloads/lv8pv/alarm/total.svg?maxAge=2592001)](https://github.com/lv8pv/alarm/master/)
+[![Downloads](https://img.shields.io/github/downloads/lv8pv/alarm/total.svg?maxAge=2592001)](https://github.com/lv8pv/alarm/)
 # alarm.sh
 *A simple Linux terminal alarm clock written in bash.*
 
