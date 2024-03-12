@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # lv8pv <lv8pv@protonmail.com>
 # http://github.com/lv8pv/alarm.git
 # ---------------------------------------------------------------------------
