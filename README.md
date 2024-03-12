@@ -12,7 +12,7 @@ with a neat little terminal alarm clock I can start and remind me to take the
 Finally I caved in and created my own little app to serve the purpose.
 
 ## Credits
-This script ships with an MP3 file in `/audio/beep1.mp3` for more and detailed
+This script ships with an MP3 file in `./audio/beep1.mp3` for more and detailed
 info look [here](./audio/BEEP1-CREDITS.md) Thank you to [Joseph SARDIN][1] for
 sharing his audio file.
 
