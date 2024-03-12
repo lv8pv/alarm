@@ -45,7 +45,7 @@ if [ "$1" == "-h" ]; then
   It uses sleep and mplayer to play a audio file at given delay, if default
   configuration is used
 
-  USAGE:  $0 [SLEEP][smhd] [ALARM-LENGHT] | [-h]
+  USAGE:  $0 [SLEEP][smhd] [ALARM-length] | [-h]
           $0
           $0 -h
 
@@ -62,8 +62,8 @@ if [ "$1" == "-h" ]; then
           will sum the arguments into one value, but this script only accept ONE
           argument for [SLEEP]
 
-      [ALARM-LENGHT]
-          The lenght of the alarm played. max 21seconds or lenght of audio file
+      [ALARM-LENGTH]
+          The length of the alarm played. max 21seconds or length of audio file
           used. It is a number value in seconds and is passed to
           'mplayer's -endpos' flag
 
