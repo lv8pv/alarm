@@ -63,8 +63,9 @@ if [ "$1" == "-h" ]; then
           argument for [SLEEP]
 
       [ALARM-LENGHT]
-          The lenght of the alarm played. (max 25seconds) It is a number value
-          in seconds and is passed to 'mplayer's -endpos' flag
+          The lenght of the alarm played. max 21seconds or lenght of audio file
+          used. It is a number value in seconds and is passed to
+          'mplayer's -endpos' flag
 
       [-h] Prints this help text
 
