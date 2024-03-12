@@ -2,8 +2,9 @@
 This mp3 file is downloaded from : [bigsoundbank.com][1]
 Additional sounds: [Joseph SARDIN][5] - [BigSoundBank.com][6]
 
-*Make a small [donation][7], or order on Thomann via this [link][8] (BigSoundBank receives 3% commission!) Nothing is
-mandatory, but definitely appreciated...*
+*Make a small [donation][7], or order on Thomann via this [link][8]
+(BigSoundBank receives 3% commission!) Nothing is mandatory, but definitely
+appreciated...*
 
 ## Electronic alarm signal
 ```
@@ -31,6 +32,6 @@ mandatory, but definitely appreciated...*
 [7]: https://bigsoundbank.com/donation.html
 [8]: https://www.thomannmusic.no/index.html?offid=1&affid=792
 
-<!-- vim: ts=2:sts=2:sw=2:tw=120:cc=120:spell et
+<!-- vim: ts=2:sts=2:sw=2:tw=80:cc=80:spell et
 -->
 
