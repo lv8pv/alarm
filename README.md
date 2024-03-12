@@ -2,7 +2,7 @@
 *A simple Linux terminal alarm clock written in bash.*
 
 ## Introduction
-Every time I make my self a cup of Tea, while sitting on the PC. I end up with a
+Every time I make my self a cup of Tea, while sitting at the PC. I end up with a
 full cup of Tea that is too strong and ice cold.
 
 More then once have I swore at my **self** and *Slackware*, for not shipping
