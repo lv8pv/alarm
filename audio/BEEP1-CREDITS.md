@@ -7,6 +7,8 @@ Additional sounds: [Joseph SARDIN][5] - [BigSoundBank.com][6]
 appreciated...*
 
 ## Electronic alarm signal
+By: Joseph SARDIN - https://josephsardin.fr
+
 ```
 Original filename   : ALRMClok_Electronic alarm buzzer 1 (ID 0035)_BSB.mp3
 Duration            : 00:21
