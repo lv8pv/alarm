@@ -45,7 +45,7 @@ if [ "$1" == "-h" ]; then
   It uses sleep and mplayer to play a audio file at given delay, if default
   configuration is used
 
-  USAGE:  $0 [SLEEP][smhd] [ALARM-length] | [-h]
+  USAGE:  $0 [SLEEP][smhd] [ALARM-LENGTH] | [-h]
           $0
           $0 -h
 
