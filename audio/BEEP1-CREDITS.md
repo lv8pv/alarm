@@ -8,13 +8,13 @@ appreciated...*
 
 ## Electronic alarm signal
 ```
-**Original filename:**  `ALRMClok_Electronic alarm buzzer 1 (ID 0035)_BSB.mp3`
-**Duration:**           00:21
-**Channels:**           Monophonic
-**Conditions:**         Studio
-**Sampling Rate**:      44,100 Hz
-**Bit depth**:          16 Bits
-**Author:**             Joseph SARDIN (https://josephsardin.fr/)
+Original filename   : ALRMClok_Electronic alarm buzzer 1 (ID 0035)_BSB.mp3
+Duration            : 00:21
+Channels            : Monophonic
+Conditions          : Studio
+Sampling Rate       : 44,100 Hz
+Bit depth           : 16 Bits
+Author              : Joseph SARDIN - https://josephsardin.fr
 ```
 
 ## Licenses
