@@ -78,25 +78,25 @@ AUDIO_FILE_PATH="$HOME"/audio
 ```
 
 ## Usage
-With no arguments: This will create an alarm with the default settings
 ```bash
+# With no arguments: This will create an alarm with the default settings
 ./alarm.sh
 ```
 
-With arguments: This example will create an alarm in 2 minutes playing the sound
-for 10 seconds
 ```bash
+# With arguments: This example will create an alarm in 2 minutes playing the sound
+# for 10 seconds
 ./alarmsh 2m 10
 ```
 
-Or two ways to create an alarm in 1 hour, sound lasting 5 seconds
 ```bash
+# Or two ways to create an alarm in 1 hour, sound lasting 5 seconds
 ./alarm.sh 1h 5
 ./alarm.sh 60s 5
 ```
 
-For for help:
 ```bash
+# For for help:
 ./alarm.sh -h
 ```
 
