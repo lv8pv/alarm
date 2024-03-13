@@ -41,7 +41,7 @@ or you want one of your own audio file played as the alarm sound.
 
 There are only 5 `variables` you can configure.
 
-```bash
+```
 # This deicide if the script run the alarm in the background, or not. Running it
 # in the background is nice when you don't want the script to occupy the terminal.
 BACKGROUND=1
