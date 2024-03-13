@@ -29,10 +29,10 @@ change the defaults by editing the alarm.sh file and change the config between
 the **START CONFIG** and **END CONFIG** section.
 
 > [!NOTE]
-> It's a good idea to look at any script you download from the internet, before
-> running the script. Someone with bad intention could do nasty stuff. If the
-> script is to complicated to understand, consider if it's worth running or have
-> someone help consider the scripts safety.
+> **Before** running *any* scripts you download from the internet. It's a good
+> idea to take a look at the code, in case someone with bad intention plan to do
+> nasty stuff. If the script is too complicated to understand, consider if it's
+> worth running, or have someone help review the scripts.
 
 ## Configuring
 There is nothing you **MUST** configure, but you might want to change the
