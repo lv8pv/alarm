@@ -40,32 +40,41 @@ default configuration. Or perhaps if you move the script to a different location
 or you want one of your own audio file played as the alarm sound.
 
 There are only 5 `variables` you can configure.
-
+<p>
 > This deicide if the script run the alarm in the background, or not. Running it
 > in the background is nice when you don't want the script to occupy the terminal.
 >> `BACKGROUND=1`
+</p>
 
+<p>
 > The first argument to the script is how long until the alarm sound is played.
 > 
 > If the script is run without any arguments, this is the default time before the
 > timer play the alarm sound. Use: s = seconds, m = minutes, h = hours, d = days.
 >> `DEFAULT_S=10s`
+</p>
 
+<p>
 > The second argument to the script, is how long the alarm sound should play. 
 > 
 > If the script is run without any arguments, this is the default length of the
 > alarm sound in seconds. It uses the `mplayer -endpos` flag to decide how much of
 > the audio file it will play.
 >> `DEFAULT_P=4`
+</p>
 
+<p>
 > This is the default audio file shipped with the script. You can change this to
 > any of your own audio files.
 >> `AUDIOFILE=beep1.mp3`
+</p>
 
+<p>
 > The path to the audio file. By default `alarm.sh` looks for the default file
 > `beep1.mp3` in two locations. `/home/user/audio` or next to the script in the
 > folder `./audio` You can change this to any location you prefer.
 >> `AUDIO_FILE_PATH="$HOME"/audio`
+</p>
 
 ## Usage
 With no arguments: This will create an alarm with the default settings
