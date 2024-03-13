@@ -26,7 +26,8 @@ This creates a folder named `alarm` where you ran the git clone command. And
 that's it. `cd` into the alarm folder and run `./alarm.sh` This will run an
 alarm at the default settings (alarm in 10 seconds lasting 4 seconds) You can
 change the defaults by editing the alarm.sh file and change the config between
-the **START CONFIG** and **END CONFIG** section.
+the  
+**START CONFIG** and **END CONFIG** section.
 
 > [!NOTE]
 > **Before** running *any* scripts you download from the internet. It's a good
