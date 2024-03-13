@@ -41,12 +41,11 @@ or you want one of your own audio file played as the alarm sound.
 
 There are only 5 `variables` you can configure.
 
-This deicide if the script run the alarm in the background, or not. Running it
-in the background is nice when you don't want the script to occupy the terminal.
-```bash
-BACKGROUND=1
-```
-----------
+> This deicide if the script run the alarm in the background, or not. Running it
+> in the background is nice when you don't want the script to occupy the terminal.
+> ```bash
+> BACKGROUND=1
+> ```
 
 The first argument to the script is how long until the alarm sound is played.
 
@@ -55,7 +54,6 @@ timer play the alarm sound. Use: s = seconds, m = minutes, h = hours, d = days.
 ```bash
 DEFAULT_S=10s
 ```
-----------
 
 The second argument to the script, is how long the alarm sound should play. 
 
@@ -65,14 +63,12 @@ the audio file it will play.
 ```bash
 DEFAULT_P=4
 ```
-----------
 
 This is the default audio file shipped with the script. You can change this to
 any of your own audio files.
 ```bash
 AUDIOFILE=beep1.mp3
 ```
-----------
 
 The path to the audio file. By default `alarm.sh` looks for the default file
 `beep1.mp3` in two locations. `/home/user/audio` or next to the script in the
